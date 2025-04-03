@@ -1,0 +1,8 @@
+[package]
+name = "File-Renamer"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "renamer" 
+path = "src/main.rs" 
